@@ -31,6 +31,21 @@ The dataset contains:
 - Pivot tables for reporting
 - Business insights generation
 
+## 🔄 Project Workflow
+1. Data loading and inspection
+2. Data cleaning and preprocessing
+3. Feature engineering (Total revenue)
+4. Exploratory data analysis
+5. Pivot table reporting
+6. Business insights
+
+## 🧠 Skills Demonstrated
+- Pandas data cleaning
+- GroupBy & aggregation
+- Pivot tables
+- Time-based analysis
+- Business insight generation
+
 ## 📈 Key Insights
 
 - Asha generated the highest revenue
@@ -46,3 +61,4 @@ The dataset contains:
 
 This project demonstrates practical data analysis skills using Pandas and is suitable
 for Data Analyst internship preparation.
+
